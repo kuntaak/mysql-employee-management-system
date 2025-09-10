@@ -47,7 +47,7 @@ This project is ideal for learning and showcasing **SQL skills** on GitHub and y
 ## 📸 Screenshots
 
 ### ER Diagram
-![ER Diagram](screenshots/ER_Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ### Query Example
-![Query Example](screenshots/query-example.png)
+![Query Example](query-example.PNG)
