@@ -1,2 +1,2 @@
 # mysql-employee-management-system
-A MySQL Employee Management System with schema, data, queries, and stored procedures.
+A MySQL Employee Management System with schema, sample data, and example queries.
